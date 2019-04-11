@@ -1,0 +1,21 @@
+{
+    "destinationBaseFolder" : "Sources",
+    "bones" : [{
+        "placeholder" : "Bone",
+        "createSubfolder" : true,
+        "folderPath" : "App\/Views",
+        "pluginData": {
+            "targetNames" : [
+                "App"
+            ]
+        },
+        "description" : "Creates a `ViewModelCompatible` item view and related xib file",
+        "files" : [
+            "ItemViewController\/BoneItemView.swift",
+            "ItemViewController\/BoneItemView.xib"
+        ],
+        "name" : "Controller"
+    }],
+    "name" : "Bones",
+    "sourcesBaseFolder" : ""
+}
